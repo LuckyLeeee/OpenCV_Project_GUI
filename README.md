@@ -1,2 +1,4 @@
-# OpenCV_Project_GUI
-A Graphic User Interface of my OpenCV project. Using OpenCV, Tesseract, Openalpr, and Zbar. I'm using C++ and WinForm to create the UI. Enjoy ^^
+# OpenCV_Project_GUI for Window
+
+### A Graphic User Interface of my OpenCV-C++ project. Using OpenCV, Tesseract, Openalpr, and Zbar.
+
